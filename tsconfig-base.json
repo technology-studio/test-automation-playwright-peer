@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "lib": [ "dom" ]
+  },
+  "extends": "@txo/tsconfig-cjs"
+}
