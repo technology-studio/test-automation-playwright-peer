@@ -4,5 +4,4 @@
  * @Copyright: Technology Studio
 **/
 
-export * from '@txo/test-automation-seed'
 export * from './Api'

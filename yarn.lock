@@ -1385,16 +1385,6 @@
     semantic-release "^23.1.1"
     semantic-release-slack-bot "^4.0.2"
 
-"@txo/test-automation-seed@^2.0.1":
-  version "2.0.1"
-  resolved "https://npm.technologystudio.sk/@txo%2ftest-automation-seed/-/test-automation-seed-2.0.1.tgz#27a151de9ca0345fb4bf7d4801685cdb8e7301ec"
-  integrity sha512-hND1fgcT9EThz8J2C6brMYFLWDl6IctkKeJ0DNFaMcd+HQl7+Van2qG/9ugCUJDsSziUB3qnx9j0uTXmY+OZhg==
-  dependencies:
-    "@txo/log" "^2.0.16"
-    "@txo/types" "^1.7.0"
-    expect "^29.7.0"
-    uuid "^11.0.5"
-
 "@txo/tsconfig-cjs@^2.0.0":
   version "2.0.0"
   resolved "https://npm.technologystudio.sk/@txo%2ftsconfig-cjs/-/tsconfig-cjs-2.0.0.tgz#e5a323a4723a4050015e777181f4057770cd2e6a"

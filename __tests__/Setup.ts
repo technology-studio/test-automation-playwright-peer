@@ -4,8 +4,7 @@
  * @Copyright: Technology Studio
 **/
 
-import '@txo/test-automation-jest'
-import './Config/LogConfig'
+import 'Config/LogConfig'
 
 // Mock your external modules here if needed
 // jest

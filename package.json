@@ -39,7 +39,6 @@
   },
   "dependencies": {
     "@txo/log": "^2.0.16",
-    "@txo/test-automation-seed": "^2.0.1",
     "@txo/types": "^1.7.0",
     "expect": "^29.7.0",
     "uuid": "^11.0.5"
