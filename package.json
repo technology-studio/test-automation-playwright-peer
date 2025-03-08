@@ -50,7 +50,7 @@
     "@playwright/test": "^1.51.0",
     "@txo-peer-dep/log": "^4.0.4",
     "@txo-peer-dep/test-automation-seed": "^1.0.1",
-    "@txo/commitlint": "^1.0.22",
+    "@txo/commitlint": "^1.0.23",
     "@txo/log-console": "^3.0.0",
     "@txo/semantic-release": "^2.0.10",
     "@txo/tsconfig-cjs": "^2.0.0",
