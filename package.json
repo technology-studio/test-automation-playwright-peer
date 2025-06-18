@@ -47,7 +47,7 @@
     "@txo-peer-dep/test-automation-seed": "^1.0.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.53.0",
+    "@playwright/test": "^1.53.1",
     "@txo-peer-dep/log": "^4.0.4",
     "@txo-peer-dep/test-automation-seed": "^1.0.1",
     "@txo/commitlint": "^1.0.24",
