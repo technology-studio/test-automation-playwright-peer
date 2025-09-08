@@ -41,7 +41,7 @@
     "@txo/log": "^2.0.16",
     "@txo/types": "^1.7.0",
     "expect": "^29.7.0",
-    "uuid": "^11.1.0"
+    "uuid": "^12.0.0"
   },
   "peerDependencies": {
     "@txo-peer-dep/test-automation-seed": "^1.0.1"
