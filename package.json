@@ -58,7 +58,7 @@
     "@types/node": "^22.20.1",
     "@types/react": "^19.2.17",
     "@types/uuid": "^10.0.0",
-    "concurrently": "^9.2.4",
+    "concurrently": "^10.0.3",
     "depcheck": "^1.4.7",
     "eslint-config-txo-package-typescript": "^1.0.120",
     "expect-type": "^1.4.0",
